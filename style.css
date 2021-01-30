@@ -1,0 +1,252 @@
+.q5{
+  background-color: black;
+  color: white;
+  width: 100%;
+  margin: -10px;
+}
+#contact input {
+  border: 1px solid #00BCD4;
+  outline: none;
+  padding: 8px;
+  display: inline-block;
+  width: 90%;
+  box-sizing: border-box;
+  font-size: 16px;
+  padding-left: 20px;
+}
+#contact button:hover{
+  background-color: white;
+  color: black;
+}
+#contact button {
+  border: none;
+  outline: none;
+  color: white;
+  background-color: blue;
+  border-radius:10px;
+  padding: 12px 24px;
+  display: inline-block;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 16px;
+  margin-bottom: 10px;  
+  text-align: center;
+}
+#contact{
+  color: #000;
+  background-color: #f1f1f1;
+  text-align: center;
+  padding: 40.1px 0;
+}
+#id{
+  background-color: red;
+  color: white;
+  padding: 55px 0;
+  font-size: 24px;
+}
+#id2{
+  background-color: blue;
+  color: white;
+  padding: 32px 0;
+  font-size: 24px;
+}
+.menu a{
+  text-decoration: none;
+  color: black;
+  display: inline-block;
+  width: 100px;
+  padding: 20px 40px;
+  font-weight: lighter;
+}
+.menu a:hover{
+  background-color: grey;
+}
+.menu{
+  text-align: center;
+  width: 100%;
+  position: fixed;
+  z-index: 1000;
+  top: 0;
+  background-color: white;
+}
+.heador{
+  text-align: center;
+  color: white;
+  padding: 200px 0;
+  background-image: url(img/polygons.png);
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin-top: 76px;
+}
+.heador a{
+  padding: 12px 24px;
+  background-color: white;
+  border-radius: 5px;
+  text-decoration: none;
+  color: black;
+  display: inline-block;
+  margin-top: 45px;
+ background-color: white;
+}
+#aboud h2{
+  text-align: center;
+}
+#aboud img{
+  width: 400px;
+  float: right;
+  margin: 30px;
+  margin-top: 0;
+}
+#aboud{
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 0;
+  text-align: justify;
+}
+.q1 h2,.q1 p{
+  text-align: center;
+  margin: 20px;
+}
+.q1 div{
+  padding: 20px;
+  border: none;
+  border-color: black;
+  border-radius: 2px;
+  display: inline-block;
+  box-shadow: 0 2px 5px grey;
+}
+.q2{
+  margin: 10px;
+  text-align: center;
+  width: 320px;
+}
+.q2 img{
+  width: 300px
+}
+.q1 a{
+  display: inline-block;
+  width: 100%;
+  background-color: #055b73;
+  padding: 14px 0;
+  border-radius: 10px;
+  color: white;
+  text-decoration: none;
+}
+#q1{
+  color: gray;
+}
+.tar{
+  background-color: white;
+  border: solid;
+  border-radius: 2px;
+  margin: 10px;
+  text-align: center;
+  display: inline-block;
+}
+.h3{
+  background-color: black;
+  color: white;
+  margin-top: -20px;
+}
+.tar2{
+  text-align: center;
+  background-color: grey;
+  border: solid;
+  border-radius: 2px;
+  margin: 10px;
+  text-align: center;
+  display: inline-block;
+}
+.h31 a{
+   display: inline-block;
+  width: 100%;
+  background-color: #055b73;
+  border-radius: 5px;
+  text-decoration: none;
+  color: black;
+  padding: 0px 0px;
+  text-align: center;
+}
+.tariff{
+  display: inline-block;
+  width: 30%;
+  min-width: 150px;
+  margin: 10px;
+  vertical-align: middle;
+  background-color: white;
+  padding: 0;
+  color: black;
+}
+.tariff li{
+  background-color: #f1f1f1;
+  padding: 24px 0;
+}
+
+.tariff a {
+  background-color: black;
+  padding: 12px 24px;
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+
+}
+
+.tariff a:hover{
+  background-color: white;
+  color: black;
+  border-radius: 10px;
+}
+.tariff li {
+  list-style-type: none;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #dddddd;
+  padding: 16px 0;
+}
+#prices {
+  background-color: #616161;
+  text-align: center;
+  padding: 50px 0;
+  color: white;
+}
+.price{
+  color: black;
+  font-weight: bold;
+}
+.period{
+  color: grey;
+}
+.tariff .tariff-name{
+  background-color: black;
+  color: white;
+  padding: 32px 0;
+  font-size: 24px;
+}
+.important{
+  font-weight: bold;
+}
+.q4{
+  text-align: left;
+  padding-left: 30px;
+  background-repeat: no-repeat;
+  background-size: 18px;
+  background-position: left center;
+  margin-left: 5%;
+}
+.contact-adres{
+    background-image: url(img/address.png);
+}
+.contact-phone{
+  background-image: url(img/phone.png);
+}
+.email{
+  background-image: url(img/mail.png);
+}
+hr{
+  padding: 0;
+  margin: 0;
+}
+body{
+  margin: 0;
+}
